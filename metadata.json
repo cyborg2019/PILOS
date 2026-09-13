@@ -1,0 +1,6 @@
+{
+  "name": "PILOS",
+  "description": "Pixel-inspired Android launcher with iOS 26 fluid animations, deeply customizable widget system, and AR Assistant preference adaptation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
